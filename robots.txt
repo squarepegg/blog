@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://squarepegg.github.io/blog/sitemap.xml
