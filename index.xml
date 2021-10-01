@@ -10,6 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.squarepe.gg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.squarepe.gg/about/</link>
+      <pubDate>Thu, 30 Sep 2021 14:33:19 -0700</pubDate>
+      
+      <guid>https://www.squarepe.gg/about/</guid>
+      <description></description>
+    </item>
+    
     
   </channel>
 </rss>
